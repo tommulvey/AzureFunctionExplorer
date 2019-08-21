@@ -1,0 +1,14 @@
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.exe
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.deps.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.runtimeconfig.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.runtimeconfig.dev.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.pdb
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.csprojAssemblyReference.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.csproj.CoreCompileInputs.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.AssemblyInfoInputs.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.AssemblyInfo.cs
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\win10-x64\AzureFunctionExplorer.pdb
