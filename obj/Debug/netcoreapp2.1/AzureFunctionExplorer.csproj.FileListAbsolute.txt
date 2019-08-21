@@ -1,0 +1,11 @@
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\AzureFunctionExplorer.deps.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\AzureFunctionExplorer.runtimeconfig.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\AzureFunctionExplorer.runtimeconfig.dev.json
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\AzureFunctionExplorer.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\bin\Debug\netcoreapp2.1\AzureFunctionExplorer.pdb
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.csprojAssemblyReference.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.csproj.CoreCompileInputs.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.AssemblyInfoInputs.cache
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.AssemblyInfo.cs
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.dll
+C:\Users\tom\Documents\AzureFunctionExplorer\obj\Debug\netcoreapp2.1\AzureFunctionExplorer.pdb
